@@ -1,6 +1,6 @@
 # [ShadowCon](https://shadow-con.vercel.app/)
 
-![ShadowCon](https://drive.google.com/file/d/1T-Iu0SHdvUl0NxirvcpJF-j4dZj7PaqS/view?usp=sharing)
+![ShadowCon](https://drive.google.com/uc?export=view&id=1T-Iu0SHdvUl0NxirvcpJF-j4dZj7PaqS)
 
 # ShadowCon is a Real-Estate web application made in React and Next JS. 
 
